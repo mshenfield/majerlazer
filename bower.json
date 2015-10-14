@@ -1,0 +1,28 @@
+{
+  "name": "majerlazer",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mshenfield/majerlazer",
+  "authors": [
+    "Max Shenfield <shenfieldmax@gmail.com>"
+  ],
+  "description": "Phaser.io app where you get to shoot laser's from your eyes... and that's it",
+  "main": "index.html",
+  "keywords": [
+    "goofy",
+    "phaser",
+    "toy",
+    "lasers",
+    "marshall"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.4.3"
+  }
+}
